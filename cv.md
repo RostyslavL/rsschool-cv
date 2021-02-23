@@ -73,24 +73,6 @@ export default Button;
 - Cooperation with other teams and service engineers
 
 ## Languages
-
-- English level : _B2 (Upper-Intermediate)_
-- English test result : _B2 (Upper-Intermediate)_
-- Polish (Upper-Intermediate) - _(B2 Certificate)_
-- Ukrainian - _native_
-- Russian - _C1_
-
-
-## Languages
-* English level : *B2 (Upper-Intermediate)*
-* English test result : *B2 (Upper-Intermediate)*
-* Polish (Upper-Intermediate) - *(B2 Certificate)*
-* Ukrainian - *native*
-* Russian - *C1*
-
-
-
-## Languages
 * English level : *B2 (Upper-Intermediate)*
 * English test result : *B2 (Upper-Intermediate)*
 * Polish (Upper-Intermediate) - *(B2 Certificate)*
