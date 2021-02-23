@@ -67,3 +67,12 @@ export default Button
 -   Failure handling,
 -   Active help in numerous projects,
 -   Cooperation with other teams and service engineers
+
+
+## Languages
+* English level : *B2 (Upper-Intermediate)*
+* English test result : *B2 (Upper-Intermediate)*
+* Polish (Upper-Intermediate) - *(B2 Certificate)*
+* Ukrainian - *native*
+* Russian - *C1*
+
