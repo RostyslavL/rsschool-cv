@@ -46,3 +46,24 @@ const cls = [
 
 export default Button
 ```
+
+
+## Work Experience :
+
+ **Junior Software Developer**
+
+>**Dates Employed** : Apr 2020 – Present
+
+>**Location** : Gdańsk, Woj. Pomorskie, Polska
+
+ **Help Desk Operator**
+
+>**Dates Employed** : Jan 2019 – Mar 2020
+
+>**Location** Gdańsk, Woj. Pomorskie, Polska
+
+`Tasks:`
+-   Handling customer requests,
+-   Failure handling,
+-   Active help in numerous projects,
+-   Cooperation with other teams and service engineers
