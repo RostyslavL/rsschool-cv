@@ -1,6 +1,6 @@
 # **Rostyslav Lohvynov**
 ![logo](me.JPG)
-## Contact Info: 
+## Contact Info:
 
 - phone: +48788249945
 - e-mail: rostyslavlogvinov@gmail.com
@@ -16,7 +16,7 @@
 * **Skills**:
 1. **HTML**
 2. **CSS**
-3. **JavaScript** 
+3. **JavaScript**
 + *React.js (basic)*
 4. **Git**
 
@@ -34,13 +34,13 @@ const cls = [
     ]
 
     return (
-        <button 
+        <button
             onClick={props.onClick}
             className={cls.join(' ')}
             disabled={props.disabled}
         >
             {props.children}
-        </button> 
+        </button>
     )
     }
 
