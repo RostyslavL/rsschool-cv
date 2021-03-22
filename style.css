@@ -1,0 +1,49 @@
+body {
+    background-color: #f5f7fa;
+    padding: 3rem;
+    font-family: 'Teko', sans-serif;
+}
+h1,h2,h3,h4,h5 {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+    box-shadow: 2rem 2rem 2rem 0 rgba(0, 0, 0, 0.4);
+    
+}
+.container-left {
+    width: 25%;
+    float:left;
+    background: linear-gradient(60deg, #06f7f7 ,#f8abab);
+    
+}
+.container-right {
+    height: 100%;
+    width: 70%;
+    overflow-x: hidden;
+    padding: 0 0 0 3rem;
+}
+
+img{
+    border-radius: 60%;
+    margin-left:80px;
+}
+.social-media-link{
+    display: inline-block;
+    padding: 0.3rem;
+    background-color: gray;
+    border-radius: 0.1rem;
+    margin-left: 3rem;
+}
+.social-media-link i{
+    color: #fff;
+    font-size: 1rem;
+    
+}
