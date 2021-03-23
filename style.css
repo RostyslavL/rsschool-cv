@@ -40,8 +40,16 @@ h1,h2,h3,h4,h5 {
 img{
     border-radius: 60%;
     border: 0.2rem solid #46e6be;
+    margin:  3.6rem 0  0 3.6rem;
+    opacity: .8;
+}
+img:hover{
+    border-radius: 60%;
+    border: 0.2rem solid #46e6be;
     margin-left: 3.6rem;
     opacity: .8;
+    transform: scale(1.2);
+    transition: transform .6s ease-in-out;
 
 }
 .social-media-link{
@@ -53,8 +61,7 @@ img{
 }
 .social-media-link i{
     color: #fff;
-    font-size: 1rem;
-    
+    font-size: 1rem;   
 }
 .bio{
     margin-left: 2rem;
