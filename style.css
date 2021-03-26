@@ -45,7 +45,6 @@ hr{
     width: 100%;
     background-color: #c4b5b5;
     height: .2rem; 
-    border-radius: 35%;
 }
 img{
     border-radius: 60%;
@@ -99,4 +98,13 @@ details{
 .skills-section  i{
     font-size: 2rem;
     margin-left: 1.2rem;
+}
+.additional-skills-text{
+    font-size: 1.5rem;
+}
+.language-skills-text{
+    font-size: 1.5rem;
+}
+.study-skills-text{
+    font-size: 1.5rem;
 }
