@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 # rsschool-html-css-cv-task
 https://rostyslavl.github.io/rsschool-cv/
+<<<<<<< HEAD
 =======
 # rsschool-cv
 <<<<<<< HEAD
@@ -14,3 +15,5 @@ https://rostyslavl.github.io/rsschool-cv/
 =======
 # rsschool-html-css-cv-task
 >>>>>>> 1f7cc52... Create README.md
+=======
+>>>>>>> ab6ced9... Update README.md
