@@ -12,6 +12,7 @@ details{
     margin-left: 2rem; 
 }
 .container {
+    box-sizing: border-box;
     height: 100%;
     width: 100%;
     position: relative;
@@ -23,12 +24,14 @@ details{
     border-radius: 1rem;   
 }
 .container-left {
+    box-sizing: border-box;
     width: 25%;
     float: left;
     background-image: linear-gradient( 102.1deg,  rgba(96,221,142,1) 22.7%, rgba(24,138,141,1) 76.1% );
     border-radius: .6rem;   
 }
 .container-right {
+    box-sizing: border-box;
     height: 100%;
     width: 70%;
     overflow-x: hidden;
@@ -56,7 +59,6 @@ hr{
     opacity: 1;
     transform: scale(1.2);
     transition: transform 1s ease-in;
-
 }
 .social-media-link{
     display: inline-block;
@@ -100,6 +102,10 @@ hr{
 .study-skills-text{
     font-size: 1.5rem;
 }
+li{
+    font-weight: bold;
+}
+
 footer{
     width: 100%;
     float: left;
