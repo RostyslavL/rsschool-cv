@@ -1,0 +1,140 @@
+
+body {
+    background-color: #f5f7fa;
+    padding: 3rem;
+    font-family: 'Teko', sans-serif;
+}
+h1,h2,h3,h4,h5 {
+    margin: 0;
+    padding: 0;
+}
+details{
+    margin-left: 2rem; 
+}
+.container {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #c4b5b5;
+    box-shadow: 2rem 2rem 2rem 0 rgba(0, 0, 0, 0.4);
+    border-radius: 1rem;   
+}
+.container-left {
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+    background-image: linear-gradient( 102.1deg,  rgba(96,221,142,1) 22.7%, rgba(24,138,141,1) 76.1% );
+    border-radius: .6rem;   
+}
+.container-right {
+    box-sizing: border-box;
+    height: 100%;
+    width: 70%;
+    overflow-x: hidden;
+    padding: 2.5rem 0 0 3rem;
+    margin-left: .8rem;
+    border-radius: .6rem;
+    background-image: linear-gradient( 102.1deg, rgba(24,138,141,1) 5%,  rgba(96,221,142,1) 8.7%, rgba(24,138,141,1) 65% );
+}
+hr{
+    width: 100%;
+    background-color: #c4b5b5;
+    height: .2rem; 
+}
+.photo img{
+    border-radius: 60%;
+    border: 0.2rem solid #293034;
+    margin:  3.6rem 0  0 3.6rem;
+    opacity: .8;
+    transition: transform 1s ease-out;
+}
+.photo img:hover{
+    border-radius: 60%;
+    border: 0.2rem solid #08eba6;
+    margin-left: 3.6rem;
+    opacity: 1;
+    transform: scale(1.2);
+    transition: transform 1s ease-in;
+}
+.social-media-link{
+    display: inline-block;
+    padding: 0.3rem;
+    background:linear-gradient(60deg, #b6adb3 ,#2b2c2c);
+    border-radius: 0.1rem;
+    margin-left: 3rem;
+}
+.social-media-link i{
+    color: #bbbbbb;
+    font-size: 1rem;   
+}
+.name{
+    text-align: center;
+    font-size: 2.5rem;
+}
+.contacts-title{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 5rem;
+}
+.contacts-item{
+    font-size: 1.2rem;
+}
+.education-heading  i{
+    font-size: 2.5rem;
+}
+.skills-section  div{
+    margin-left: 1.5rem;
+}
+.skills-section  i{
+    font-size: 2rem;
+    margin-left: 1.2rem;
+}
+.additional-skills-text{
+    font-size: 1.5rem;
+}
+.language-skills-text{
+    font-size: 1.5rem;
+}
+.study-skills-text{
+    font-size: 1.5rem;
+}
+li{
+    font-weight: bold;
+}
+
+footer{
+    width: 100%;
+    float: left;
+    background-image: linear-gradient( 102.1deg, rgba(24,138,141,1) 15%,  rgba(96,221,142,1) 40%, rgba(24,138,141,1) 65% );
+    border-radius: .6rem;
+    margin: .5rem .5rem 0 0;
+    text-align: center;
+    justify-content: center;
+}
+.footer-left{
+    width: 25%;
+    float: left;
+    padding-top: 2em;
+    border-radius: .6rem;      
+}
+.footer-right{
+    height: 100%;
+    width: 70%;
+    padding-top: 1rem;
+    border-radius: .6rem;
+    font-size: 3rem;
+    
+}
+.footer-github-link{
+    font-size: 2.5rem;
+    color: #293034;
+}
+.copyright{
+    font-weight: 600;
+    font-size: 1rem;
+    margin-left: 25rem;    
+}
