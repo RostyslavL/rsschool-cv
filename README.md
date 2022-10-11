@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # rsschool-cv
 https://rostyslavl.github.io/rsschool-cv/
 
