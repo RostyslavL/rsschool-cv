@@ -8,5 +8,5 @@ https://rostyslavl.github.io/rsschool-cv/
 >>>>>>> af04899... fix: correction of README.md
 =======
 [rsschool-cv](https://RostyslavL.github.io/rsschool-cv/cv)
- 
+
 >>>>>>> 00c4553... fix: correction of link README.md
